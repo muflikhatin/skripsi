@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-from sklearn.utils.validation import joblib
+import joblib
 
 # st.markdown("# 1. Information")
 # create content
